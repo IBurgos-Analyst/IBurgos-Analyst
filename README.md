@@ -1,4 +1,4 @@
-# Ivan Burgos- Data Analyst Portfolio
+Ivan Burgos- Data Analyst Portfolio
 
 <!---
 IBurgos-Analyst/IBurgos-Analyst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
