@@ -6,7 +6,8 @@ Hello, I'm Ivan. I have recently graduated with a Masters in Data Science and An
 #### - LinkedIn: www.linkedin.com/in/ivan-burgos-148734146
 
 ## Projects 
-
+#### Alien Invasion Game: https://github.com/IBurgos-Analyst/Alien_Invasion_Game 
+This project aims to apply the Python techniques I learned from the "Python Crash Course" by Eric Matthes. With the information I learned from the book, I applied Python functions, while-loops, and other programming tools to create a simple game. 
 
 
 ## Certificates 
